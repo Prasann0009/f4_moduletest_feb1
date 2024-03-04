@@ -1,1 +1,8 @@
-I mistakenly add .git at the end at the end of the deploy link so please use this link "https://prasann0009.github.io/f4_moduletest_feb1/" instant of this "https://prasann0009.github.io/f4_moduletest_feb1.git/"
+I mistakenly add .git at the end at the end of the deploy link so please
+ use this link 
+"https://prasann0009.github.io/f4_moduletest_feb1/" 
+instant of this 
+"https://prasann0009.github.io/f4_moduletest_feb1.git/"
+
+Also it works properly in my local system but when I upload on github pages it shows only black page,
+I think there might be any issue regards to "build" so please check it also
